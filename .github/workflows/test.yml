@@ -1,0 +1,32 @@
+name: COMP3104 Group 3 Tests
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python 3.x
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.x'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # Add pip install commands for project dependencies here
+        
+    - name: Run tests
+      run: |
+        python -m unittest discover src/test/ -v
+        
+    - name: Run hello script
+      run: |
+        python src/main/hello.py
