@@ -1,0 +1,48 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+.tmp/
+
+# Log Files
+*.log
+logs/
+
+# Build and Output Directories
+build/
+dist/
+out/
+target/
+
+# Dependency Directories
+node_modules/
+vendor/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Test Coverage Reports
+coverage/
+*.lcov
+
+# Documentation Build Files
+docs/_build/
+site/
