@@ -1,3 +1,12 @@
 Tyson Ward-Dicks
 101501186
 COMP3104 - Assignment 1
+
+
+-------- Importance of learning DevOps in the SDLC --------
+
+Learning DevOps is essential in the software development life cycle because it bridges 
+the gap between development and operations. It ensures faster delivery, continuous testing, 
+and better product quality through automation and collaboration. DevOps practices help
+teams detect issues early, reduce deployment failures, and maintain consistent software 
+performance.
