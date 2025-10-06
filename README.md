@@ -2,3 +2,4 @@
 
 # ----- Group Members -----
 # Member 1: Tyson Ward-Dicks - (101501186) - [GitHub](https://github.com/101501186) 
+# Leader 1: Mehmet Emin Demir (101394234) – [GitHub](https://github.com/mehmetemindemir)
