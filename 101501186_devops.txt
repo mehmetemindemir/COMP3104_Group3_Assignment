@@ -5,12 +5,22 @@ COMP3104 - Assignment 1
 
 -------- COMP3104-DevOps --------
 
-This course introduces the key principles and tools of DevOps, which combines software...
+This course introduces the key principles and tools of DevOps, which combines software
 development and IT operations to deliver applications faster and more reliably.
-In this course, students learn how to automate the software delivery process using ...
-tools like GitHub, Jenkins, and Docker. The course focuses on continuous integration ...
-and contnuous deployment pipelines, version control, and collaboration practices used ...
-in modern development environments. By the end of this course, students understand how ...
-to integrate code, build, test, and deploy efficiently whileimproving teamwork between ...
-developers and operations. These skills are essential for working in real-world ...
+In this course, students learn how to automate the software delivery process using
+tools like GitHub, Jenkins, and Docker. The course focuses on continuous integration
+and contnuous deployment pipelines, version control, and collaboration practices used
+in modern development environments. By the end of this course, students understand how
+to integrate code, build, test, and deploy efficiently whileimproving teamwork between
+developers and operations. These skills are essential for working in real-world
 software teams.
+
+
+--- Benefits of Taking this Course ---
+
+- Improve collaboration skills
+- Gain industry-relevant skills
+- Understand continuous integration and continuous deplopyment
+- Hands-on learning
+- Career advancement and demand
+- ect...
