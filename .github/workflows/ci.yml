@@ -1,0 +1,36 @@
+name: COMP3104 Group 3 Tests
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  explore-actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+
+      - name: Show context
+        run: |
+          echo "🎉 Trigger: ${{ github.event_name }}"
+          echo "🔎 Branch/Ref: ${{ github.ref }}"
+          echo "📦 Repo: ${{ github.repository }}"
+
+      - name: List files in the repo
+        run: ls -la
+
+      # Simple assignment-specific check: required student files exist
+      - name: Verify student files pattern exist
+        run: |
+          set -e
+          echo "Checking for *_gb.txt, *_devops.txt, *_sdlc.txt…"
+          if ls *_gb.txt *_devops.txt *_sdlc.txt >/dev/null 2>&1; then
+            echo "✅ Found at least one set of required files."
+          else
+            echo "❌ Missing required files for at least one member." && exit 1
+          fi
+
+      - name: Job status
+        run: echo "🍏 This job's status is ${{ job.status }}."
