@@ -3,7 +3,7 @@ Tyson Ward-Dicks
 COMP3104 - Assignment 1
 
 
--------- COMP3104-DevOps --------
+--------- COMP3104-DevOps ---------
 
 This course introduces the key principles and tools of DevOps, which combines software
 development and IT operations to deliver applications faster and more reliably.

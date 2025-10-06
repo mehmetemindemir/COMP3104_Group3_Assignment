@@ -7,13 +7,13 @@ COMP3104 - Assignment 1
 
 --- Itroduction ---
 
-George Brown college is a public post-secondary institution located in downtown Toronto,...
+George Brown college is a public post-secondary institution located in downtown Toronto,
 Ontario, Canada. The college was established in 1967, with three main campuses. 
-George Brown is a college for applied arts and technology. The school offers more than...
-170 full-time programs in art and design, business, community services, early childhood... 
-education, construction and engineering technologies, health sciences, hospitality and... 
-culinary arts, preparatory studies, as well as specialized programs and services for...
-recent immigrants and international students. The college offers diploma programs, ... 
+George Brown is a college for applied arts and technology. The school offers more than
+170 full-time programs in art and design, business, community services, early childhood
+education, construction and engineering technologies, health sciences, hospitality and 
+culinary arts, preparatory studies, as well as specialized programs and services for
+recent immigrants and international students. The college offers diploma programs, 
 advanced diploma programs, as well as degree programs.
 
 
