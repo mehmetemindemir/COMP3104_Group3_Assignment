@@ -7,7 +7,7 @@ COMP3104 - Group Assignment 1
 
 Regardless of the type of DevOps toolchain an organization uses, 
 a DevOps process needs to use the right tools to  address the key phases 
-of the DevOps lifecycle:
+of the software development life-cycle:
 
 - Discover
 - Plan
@@ -15,4 +15,4 @@ of the DevOps lifecycle:
 - Test 
 - Monitor 
 - Operate
-- Continuous feedback  
+- Continuous feedback
