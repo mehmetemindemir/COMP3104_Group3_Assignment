@@ -5,7 +5,6 @@ COMP3104 - Group Assignment 1
 
 -------- George Brown College --------
 
-
 --- Introduction ---
 George Brown College is a leading public post-secondary institution situated in the heart of downtown Toronto, 
 close to the financial centre of Canada and thousands of industry partners and home to a thriving community of students, 

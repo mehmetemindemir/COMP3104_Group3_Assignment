@@ -5,11 +5,14 @@ COMP3104 - Group Assignment 1
 
 --------- Importance of learning DevOps in the SDLC ---------
 
-Regardless of the type of DevOps toolchain an organization uses, a DevOps process needs to use the right tools to  address the key phases of the DevOps lifecycle:
+Regardless of the type of DevOps toolchain an organization uses, 
+a DevOps process needs to use the right tools to  address the key phases 
+of the software development life-cycle:
+
 - Discover
 - Plan
 - Build
 - Test 
 - Monitor 
 - Operate
-- Continuous feedback  
+- Continuous feedback
