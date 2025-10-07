@@ -6,7 +6,8 @@
 
 # Member 1: Tyson Ward-Dicks - (101501186) - [GitHub](https://github.com/101501186) 
 
-- **Member 2:** Eric Laudrum - (100556934) - [GitHub](https://github.com/Eric-Laudrum) 
+- **Member 2:** Eric Laudrum - (100556934) - [GitHub](https://github.com/Eric-Laudrum)
+- **Member 3:** Damon Dao Lam - (101476517) - [Github](https://github.com/DayLa74)
 
 
 # ----- Project Description -----
