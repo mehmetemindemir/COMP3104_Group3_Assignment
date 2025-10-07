@@ -1,0 +1,9 @@
+Mehmet Demir
+101394234
+COMP3104 - Group Assignment 1
+
+My view of DevOps: 
+In this course, students will explore the principles, practices, and collaborative mindset that DevOps professionals use to bridge the gap between development and operations. 
+They will evaluate modern automation, monitoring, and deployment techniques, and apply hands-on exercises with industry-standard tools to streamline software delivery. 
+By following DevOps best practices, students will learn to design and implement reliable, scalable solutions that accelerate delivery cycles and improve business outcomes.
+
