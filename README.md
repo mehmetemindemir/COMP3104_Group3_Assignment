@@ -1,4 +1,4 @@
-# COMP3104_Group3_Assignment [![CI](https://github.com/mehmetemindemir/COMP3104_Group3_Assignment/actions/workflows/ci.yml/badge.svg)](https://github.com/mehmetemindemir/COMP3104_Group3_Assignment/actions/workflows/ci.yml)
+# COMP3104_Group3_Assignment    [![CI](https://github.com/mehmetemindemir/COMP3104_Group3_Assignment/actions/workflows/ci.yml/badge.svg)](https://github.com/mehmetemindemir/COMP3104_Group3_Assignment/actions/workflows/ci.yml)
 
 # ----- Group Members -----
 
