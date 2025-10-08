@@ -3,17 +3,10 @@ Damon Dao Lam
 COMP3104 - Group Assignment 1
 
 --------- Importance of learning DevOps in the SDLC ---------
+Learning DevOps is important because it bridges the gap between development and operations, enabling faster, more reliable software delivery. It promotes collaboration, automation, and continuous improvement—helping teams build, test, and deploy code more efficiently. By mastering DevOps, you gain skills that boost productivity, reduce errors, improve scalability, and make you highly valuable in today’s tech-driven world.
 
-COMP 3104 introduces students to the principles and practices of DevOps, emphasizing collaboration between development 
-and operations to deliver software efficiently and reliably. The course focuses on automation, continuous integration and 
-deployment (CI/CD), version control (Git), containerization (Docker), and modern deployment tools.
-
-You can reasonably assume students will cover things like:
-- Version control (e.g. Git)
-- Collaboration workflows (branching, merges, pull-requests)
-- Continuous Integration / Continuous Deployment (CI/CD) pipelines
-- Possibly containerization / Docker / maybe Kubernetes or other orchestration tools
-- Some infrastructure as code (Terraform, Ansible or similar)
-- Automated testing and monitoring
-- Build automation tools
-- Deployment strategies and best practices
+--- Benefits of Taking this Course ---
+- Bridges the Gap Between Development and Operations
+- Enables Faster Delivery
+- Improves Reliability and Quality
+- Increases Scalability and Efficiency
