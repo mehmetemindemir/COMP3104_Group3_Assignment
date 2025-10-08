@@ -1,0 +1,19 @@
+Damon Dao Lam
+100556934
+COMP3104 - Group Assignment 1
+
+--------- COMP3104-DevOps ---------
+
+COMP 3104 introduces students to the principles and practices of DevOps, emphasizing collaboration between development 
+and operations to deliver software efficiently and reliably. The course focuses on automation, continuous integration and 
+deployment (CI/CD), version control (Git), containerization (Docker), and modern deployment tools.
+
+You can reasonably assume students will cover things like:
+- Version control (e.g. Git)
+- Collaboration workflows (branching, merges, pull-requests)
+- Continuous Integration / Continuous Deployment (CI/CD) pipelines
+- Possibly containerization / Docker / maybe Kubernetes or other orchestration tools
+- Some infrastructure as code (Terraform, Ansible or similar)
+- Automated testing and monitoring
+- Build automation tools
+- Deployment strategies and best practices
