@@ -1,0 +1,7 @@
+Mehmet Demir
+101394234
+
+Why SDLC matters:
+
+In my studies, I’ve been learning about the Software Development Life Cycle (SDLC) as a step-by-step process for building quality software. I’m discovering how each phase — planning, requirements, design, coding, testing, and maintenance — connects to produce better outcomes. 
+By practicing these steps myself, I’m gaining skills I can use to manage projects and deliver maintainable software in the future.

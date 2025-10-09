@@ -1,0 +1,10 @@
+Eric Laudrum
+100556934
+COMP3104 - Group Assignment 1
+
+
+--------- COMP3104-DevOps ---------
+
+DevOps bring a number of procedures, protocols, and best practices to a workplace environment to help increase productivity. 
+They analyze and evaluate various developer operation implementations available and implement hands-on work using industry standard toolkit, 
+and also create solutions to complex business problems by adhering to the core responsibilities of DevOps.
